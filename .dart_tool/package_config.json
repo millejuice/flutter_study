@@ -146,13 +146,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "quiz",
+      "name": "netflix",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-05-25T06:17:45.212343Z",
+  "generated": "2023-05-25T06:28:02.641834Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }
